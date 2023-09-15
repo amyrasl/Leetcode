@@ -38,4 +38,6 @@
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?</div>
 
 <h1>PERSONAL NOTES</h1>
-![image](https://github.com/amyrasl/Leetcode/assets/65806232/6862db03-a36c-4453-ac3a-eee8494b7aea)
+<img src="https://github.com/amyrasl/Leetcode/assets/65806232/1d5f197e-50e9-4a48-acb6-c8062aa343d4">
+![image](https://github.com/amyrasl/Leetcode/assets/65806232/1d5f197e-50e9-4a48-acb6-c8062aa343d4)
+
