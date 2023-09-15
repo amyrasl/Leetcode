@@ -39,5 +39,3 @@
 
 <h1>PERSONAL NOTES</h1>
 <img src="https://github.com/amyrasl/Leetcode/assets/65806232/1d5f197e-50e9-4a48-acb6-c8062aa343d4">
-![image](https://github.com/amyrasl/Leetcode/assets/65806232/1d5f197e-50e9-4a48-acb6-c8062aa343d4)
-
