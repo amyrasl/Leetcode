@@ -31,3 +31,6 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?</div>
+
+<h1>PERSONAL NOTE</h1>
+<img src="https://github.com/amyrasl/Leetcode/assets/65806232/0c318619-02a3-4334-8232-5d8ef000db4d">
