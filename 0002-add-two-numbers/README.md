@@ -31,3 +31,10 @@
 	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
 </div>
+
+# PERSONAL NOTE
+
+<img src="![image](https://github.com/amyrasl/Leetcode/assets/65806232/f6c7c092-470a-41fd-85aa-de61b9cab7c3)">
+<img src="![image](https://github.com/amyrasl/Leetcode/assets/65806232/1dd7dd1b-e3be-4202-80ed-3c3ae354636f)">
+
+">
