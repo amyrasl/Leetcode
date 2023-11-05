@@ -52,3 +52,5 @@ M             1000</pre>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
 </ul>
 </div>
+
+![image](https://github.com/amyrasl/Leetcode/assets/65806232/93b72910-ef8d-4988-8ab3-1fc7633a4ebc)
