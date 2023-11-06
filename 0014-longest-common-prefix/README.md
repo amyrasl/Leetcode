@@ -25,3 +25,5 @@
 	<li><code>strs[i]</code> consists of only lowercase English letters.</li>
 </ul>
 </div>
+
+![image](https://github.com/amyrasl/Leetcode/assets/65806232/ce0cda1e-49eb-4ca2-b3bd-a80afa9ddec0)
