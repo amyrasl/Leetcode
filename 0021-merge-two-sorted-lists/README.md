@@ -32,3 +32,5 @@
 	<li>Both <code>list1</code> and <code>list2</code> are sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
 </div>
+
+![image](https://github.com/amyrasl/Leetcode/assets/65806232/78e07742-f32e-4ba6-8c01-fc2a7a58c6a2)
